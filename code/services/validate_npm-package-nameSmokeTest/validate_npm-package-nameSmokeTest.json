@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,validate_npm-package-name",
+    "logging_enabled": "false",
+    "name": "validate_npm-package-nameSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "validate_npm-package-nameSmokeTest.js"
+}
